@@ -50,6 +50,7 @@ def flip_coins(n_coins, n_trials):
 
     Returns a list of length (n_coins + 1): index k holds the number of
     trials that produced exactly k heads.
+    One trial = flipping all n coins once. 
     """
     counts = [0] * (n_coins + 1)
     for _ in range(n_trials):
