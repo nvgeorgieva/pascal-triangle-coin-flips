@@ -3,6 +3,7 @@
 A math + Python project which connects a simple number pattern — **Pascal's triangle** — to the
 real behavior of **flipping coins**, and checks whether the triangle really
 predicts how often each number of heads appears.
+The notebook renders directly on GitHub — just click notebook.ipynb.
 
 ## The question
 
