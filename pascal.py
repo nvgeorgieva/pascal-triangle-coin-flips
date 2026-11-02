@@ -1,4 +1,5 @@
 """
+# Author: Nina Georgieva
 Pascal's triangle and coin flips.
 
 Two small building blocks for the project:
