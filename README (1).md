@@ -28,6 +28,12 @@ the probabilities from row 5 of Pascal's triangle very closely. As the number
 of flips grew from 100 to 100,000, the total error shrank from about 0.12 to
 about 0.009 — more flips gave a closer match.
 
+## What I learned
+
+I learned that a simple number pattern built only with additions can correctly
+predict how often random coin flips land on each number of heads. Also that the
+prediction gets more accurate the more times you flip.
+
 ## Files
 
 - `notebook.ipynb` — the main deliverable: explanation, math, code, experiments, chart, conclusion.
